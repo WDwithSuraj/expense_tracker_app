@@ -1,0 +1,10 @@
+export const USER_LOGIN = "USER_LOGIN";
+export const USER_LOGOUT = "USER_LOGOUT"
+
+export const FETCH_REQUEST = "FETCH_REQUEST"
+export const FETCH_SUCCESS = "FETCH_SUCCESS"
+export const FETCH_FAILURE = "FETCH_FAILURE"
+
+export const EDIT_REQUEST = "EDIT_REQUEST"
+export const EDIT_SUCCESS = "EDIT_REQUEST"
+export const EDIT_FAILURE = "EDIT_FAILURE"
